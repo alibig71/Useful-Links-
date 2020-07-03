@@ -17,3 +17,7 @@ https://topdogengineer.com/
 
 https://geo-python.github.io/site/index.html   
 - The Geo-Python course teaches you the basic concepts of programming using the Python programming language
+
+
+https://github.com/APMonitor/begin_python
+- Computer skills useful to engineers and scientists
