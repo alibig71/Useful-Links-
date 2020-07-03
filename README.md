@@ -1,5 +1,9 @@
-# Useful Links      Last Update: 03/07/2020
-Here you can find a list of the websites that I encounter as I was learning Python  
+# Useful Links      
+
+# Last Update: 03/07/2020
+
+
+- Here you can find a list of the websites that I encounter as I was learning Python  
 
 
 
