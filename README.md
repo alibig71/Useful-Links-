@@ -24,3 +24,6 @@ https://github.com/APMonitor/begin_python
 
 https://github.com/nfcd/compGeo
 - Computational Geosciences @ UiS
+
+https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
+- Syntax for Github 
